@@ -1008,6 +1008,35 @@
           }
         ]
       ]
+    },
+    {
+      "title": "ESEAP Conference 2026",
+      "itinerary": [
+        [
+          {
+            "flightNum": "CI702",
+            "airline": "China Airlines",
+            "aircraft": "Airbus A330-300",
+            "seat": "42K",
+            "nodes": [
+              { "airport": "MNL", "etd": "2026-05-14T10:35+08", "terminal": "Terminal 1" },
+              { "airport": "TPE", "eta": "2026-05-14T12:50+08", "terminal": "Terminal 1" }
+            ]
+          }
+        ],
+        [
+          {
+            "flightNum": "CI703",
+            "airline": "China Airlines",
+            "aircraft": "Airbus A330-300",
+            "seat": "42G",
+            "nodes": [
+              { "airport": "TPE", "etd": "2026-05-18T13:30+08", "terminal": "Terminal 1" },
+              { "airport": "MNL", "eta": "2026-05-18T15:50+08", "terminal": "Terminal 1" }
+            ]
+          }
+        ]
+      ]
     }
   ],
   "airports" : {
