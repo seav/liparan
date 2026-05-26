@@ -105,23 +105,23 @@
       "itinerary": [
         [
           {
-            "flightNum": "Z2???",
-            "airline": "SEAIR",
+            "flightNum": "DG11",
+            "airline": "South East Asian Airlines",
             "aircraft": "Fairchild-Dornier 328",
             "nodes": [
               { "airport": "MNL", "etd": "2008-01-11T08:00+08", "terminal": "Terminal 4" },
-              { "airport": "MPH", "eta": "2008-01-11T08:35+08" }
+              { "airport": "MPH", "eta": "2008-01-11T08:45+08" }
             ]
           }
         ],
         [
           {
-            "flightNum": "Z2???",
-            "airline": "SEAIR",
+            "flightNum": "DG34",
+            "airline": "South East Asian Airlines",
             "aircraft": "Fairchild-Dornier 328",
             "nodes": [
               { "airport": "MPH", "etd": "2008-01-13T16:35+08" },
-              { "airport": "MNL", "eta": "2008-01-13T17:10+08", "terminal": "Terminal 4" }
+              { "airport": "MNL", "eta": "2008-01-13T17:20+08", "terminal": "Terminal 4" }
             ]
           }
         ]
